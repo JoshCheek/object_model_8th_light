@@ -6,9 +6,11 @@ such as the ones in the next section.
 
 * Easily available:
   * Binding:
-    * `self`
-    * `caller`
-    * `local_variables`
+    * `self` a keyword
+    * `caller` a method called on self (it's private)
+    * `local_variables` a method called on self (private)
+    * Other interesting methods:
+      `Binding.instance_methods - Object.new.methods`
   * Objects:
     * `some_object.class` careful, this one lies
     * `some_object.methods` methods this obj can call
@@ -29,6 +31,10 @@ such as the ones in the next section.
     * `some_block.source_location`
   * Another one I made that I haven't looked through to compare to this list:
     https://github.com/JoshCheek/ruby-object-model/blob/master/obj-model-cheatsheet.pdf
+* [Synseer](http://synseer.herokuapp.com/)
+  a Game to learn Ruby syntax.
+* [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing/)
+* [Pry](http://pryrepl.org/)
 * Visualizing the callstack / watching how Ruby moves through a file
   Clone this: https://github.com/JoshCheek/object-model-with-lovisa
   and then run `bin/spelunk` against a Ruby file.
@@ -37,6 +43,7 @@ such as the ones in the next section.
 * `ObjectSpace.reachable_objects_from`,
   using object associations to see the included class and singleton class
   https://gist.github.com/JoshCheek/cf7f587258cc721755d6
+* Implement a Ruby interpreter! [my version](https://github.com/JoshCheek/book_club_interpreter)
 * Heap dumping
   ```ruby
   require 'objspace'
