@@ -1,9 +1,9 @@
 Singleton Classes
 -----------------
 
-Q: How can we add a method to a single object?
-A: Insert a class at the head of its inheritance linked list.
-   Thus it will search this before its current class.
+* Q: How can we add a method to a single object?
+* A: Insert a class at the head of its inheritance linked list.
+     Thus it will search this before its current class.
 
 This is called the singleton class, it's what happens when you
 see any of these:

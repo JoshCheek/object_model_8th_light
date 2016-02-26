@@ -73,7 +73,7 @@ such as the ones in the next section.
   # :thread_end   event hook at thread ending
   ```
 * Other versions of this material
-  https://github.com/CodePlatoon/curriculum/blob/master/phase1/how-ruby-works.md
-  https://github.com/JoshCheek/object-model-with-lovisa
-  https://github.com/JoshCheek/object-model-hash-style
-  https://github.com/JoshCheek/ruby-object-model
+  * https://github.com/CodePlatoon/curriculum/blob/master/phase1/how-ruby-works.md
+  * https://github.com/JoshCheek/object-model-with-lovisa
+  * https://github.com/JoshCheek/object-model-hash-style
+  * https://github.com/JoshCheek/ruby-object-model
