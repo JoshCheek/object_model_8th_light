@@ -25,5 +25,6 @@
 ```
 
 By [@josh_cheek](https://twitter.com/josh_cheek)
+Video of the presentation is: **[HERE!!](https://www.youtube.com/watch?v=2c9V0qKVjhI)**
 
 ![Take the Red Pill](https://s3.amazonaws.com/josh.cheek/images/scratch/ruby-object-model-matrix.png)

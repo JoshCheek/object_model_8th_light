@@ -1,5 +1,7 @@
 Presentation files for [this 8LU](http://www.meetup.com/8th-light-university/events/228599637/).
 
+The video is: **[HERE!!](https://www.youtube.com/watch?v=2c9V0qKVjhI)**
+
 ```
 :::::::::  :::    ::: :::::::::  :::   ::: ::: ::::::::
 :+:    :+: :+:    :+: :+:    :+: :+:   :+: :+ :+:    :+:
