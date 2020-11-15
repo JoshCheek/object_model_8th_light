@@ -1,5 +1,5 @@
 OBJECTS
-# Purpose: store data, via its instance variables.
+# Purpose: store data, via instance variables.
 
 { class: => some class (3.2),
   instance_variables: {

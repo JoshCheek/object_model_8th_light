@@ -1,6 +1,6 @@
 # =====  Arguments are evaluated first  =====
 # Each of the expressions below will evaluate its argument first,
-# then it will evaluate itself. What will we see on eac line?
+# then it will evaluate itself. What will we see on each line?
 
 def call1(n)
   # n # =>

@@ -4,7 +4,7 @@ CLASSES
 # for operating on an object.
 
 { # This enables inheritance
-  superclass: some_class,
+  superclass: some other class,
   methods:    {},
 
   # This enables constant namespacing
